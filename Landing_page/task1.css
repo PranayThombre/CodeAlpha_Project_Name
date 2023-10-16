@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.main{
+  margin: 0;
+  padding: 0;
+  background-image: url("main12.jpg");
+  background-size: 100%;
+}
+
+
+.ul1{
+ 
+  text-decoration: none;
+}
+
+
+.li1{
+  float: left;
+  list-style-type:none;
+  padding-left: 4ch;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+
+.bac{
+  display: flex;
+}
+
+
+.f1{
+  padding-left: 80px;
+}
+
+
+.f2{
+  padding-left: 50%;
+  padding-top: 10px;
+}
+
+.img1{
+  margin: 50px;
+}
+
+.img2{
+  margin: 0 20px;
+  padding:0 80px;
+  font-size: 50px;
+}
+
+.flex4{
+  margin: 40px;
+  padding: 10px;
+  width:30%;
+  text-align: center;
+}
+
+.flex5{
+  margin: 50px;
+   width: 50%;
+  height: 100%;
+  padding: 20px 10px 20px 40px;
+  border-radius: 10px;
+  background-color: rgb(236, 236, 236);
+}
+
+.bu1{
+  background-color: rgb(0, 210, 214);
+  color: white;
+  font-weight: 700;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 20px;
+  margin:20px 0;
+}
+
+.flex6{
+  margin: 50px;
+   width: 50%;
+  height: 100px;
+}
+
+.head1{
+  font-size: 60px;
+  font-family: cursive;
+  color: rgb(130, 102, 102);
+}
+
+.ul2{
+  margin: 10px;
+}
+
+.li2{
+  padding: 7px;
+  font-size: larger;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.footer{
+  text-align: center; 
+  background-color: #cfcecc; 
+  padding: 41px 10px 15px 10px;
+}
+
+.fo1{
+  
+  padding: 0 10px 5px 10px ;
+  color: rgb(81, 109, 121);
+}
